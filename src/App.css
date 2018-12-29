@@ -1,0 +1,9 @@
+nav ul li{
+    display: inline-block;
+    margin: 5px;
+    padding:10px;
+}
+
+a{
+    text-decoration: none;
+}
